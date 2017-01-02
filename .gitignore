@@ -1,0 +1,29 @@
+# System Files
+.DS_Store
+
+# Application files
+applet
+application.linux32
+application.linux64
+application.windows32
+application.windows64
+application.macosx
+
+# Ignore File Types
+*.zip
+*.mp4
+*.mov
+*.png
+*.jpg
+*.class
+*.java
+
+# Project Folders
+Assets/
+Export/
+Publish/
+
+# Project Builds
+Build/build-tmp/*
+Build/build-tmp/source/Build.java
+Build/build-tmp/Build.class
